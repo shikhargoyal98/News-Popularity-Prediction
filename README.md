@@ -8,7 +8,11 @@ This repository contains the code, data processing steps, and models for predict
 **Features:**
 
 Content Analysis: Predict the popularity of articles, social media posts, or videos based on textual and metadata features.
+
 Engagement Metrics: Use data such as likes, shares, comments, views, and time spent on content to make predictions.
+
 Machine Learning Models: Multiple predictive models, including linear regression, decision trees, and neural networks, for popularity forecasting.
+
 Time Series Analysis: Predict long-term trends in content popularity by analyzing temporal patterns.
+
 Visualization: Graphical tools to visualize trends, predictions, and performance metrics.
